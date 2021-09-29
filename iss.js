@@ -72,10 +72,7 @@ reearth.on("message", msg => {
     lat: msg.lat,
     lng: msg.lng,
     alt: msg.alt,
-    heading: 0,
-    pitch: 90,
-    roll: 0,
   }, {
-    duration: 2000
+    duration: 200
   });
 });
