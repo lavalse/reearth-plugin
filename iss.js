@@ -73,6 +73,6 @@ reearth.on("message", msg => {
     lng: msg.lng,
     alt: msg.alt,
   }, {
-    duration: 200
+    duration: 2
   });
 });
