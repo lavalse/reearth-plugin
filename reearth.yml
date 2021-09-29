@@ -1,5 +1,5 @@
-id: reearth-plugin-test
-title: Test Plug-in
+id: reearth-plugin-red
+title: red-Plug-in
 version: 1.0.0
 extensions:
   - id: text
