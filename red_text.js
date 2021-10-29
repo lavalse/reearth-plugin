@@ -3,7 +3,7 @@ const html = `
 <h1 id="text"></h1>
 <style>
   html, body {
-    margin: 0;
+    margin: -6;
     background: rgba(255, 255, 255, 0.2);
     border: solid;
   }
