@@ -4,7 +4,8 @@ const html = `
 <style>
   html, body {
     margin: 0;
-    background: transparent;
+    background: rgba(255, 255, 255, 0.2);
+    border: solid;
   }
 </style>
 <script>

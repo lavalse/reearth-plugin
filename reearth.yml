@@ -2,7 +2,7 @@ id: reearth-plugin-red
 name: Red Plug-in
 version: 1.0.0
 extensions:
-  - id: text
+  - id: red_text
     type: widget
     name: Text Widget
     schema:
