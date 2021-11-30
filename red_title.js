@@ -5,11 +5,9 @@ const html = `
 </div>
 <style>
   html, body {
-    width: 50px;
   }
   #wrapper {
     background-color: rgba(111, 111, 111, 0.5);
-    margin: -10px;
     border: solid red;
   }
 </style>
